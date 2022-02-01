@@ -1,3 +1,3 @@
 # Project Euler
 
-Project Euler Program #1
+All of my Project Euler programs
