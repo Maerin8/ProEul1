@@ -1,2 +1,3 @@
-# ProEul1
+# Project Euler
+
 Project Euler Program #1
